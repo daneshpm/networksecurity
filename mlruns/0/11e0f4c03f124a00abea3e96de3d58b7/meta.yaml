@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pavan/Downloads/networksecurity%20%281%29/mlruns/0/11e0f4c03f124a00abea3e96de3d58b7/artifacts
+end_time: 1740219396111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11e0f4c03f124a00abea3e96de3d58b7
+run_name: awesome-kit-450
+run_uuid: 11e0f4c03f124a00abea3e96de3d58b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740219389545
+status: 3
+tags: []
+user_id: pavan

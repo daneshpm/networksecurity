@@ -1,3 +1,5 @@
+# The `NetworkSecurityException` class is a custom exception in Python that captures error details
+# including the script name, line number, and error message.
 import sys
 from networksecurity.logging import logger
 

@@ -1,4 +1,10 @@
 import sys
+"""
+    This Python script sets up a FastAPI web application for training and predicting using a machine
+    learning model with MongoDB integration.
+    :return: The code provided is a Python FastAPI application that sets up routes for training a
+    machine learning model and making predictions based on uploaded CSV files.
+"""
 import os
 
 import certifi

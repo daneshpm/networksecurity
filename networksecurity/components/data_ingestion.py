@@ -1,3 +1,5 @@
+# The `DataIngestion` class in Python handles data ingestion tasks such as reading data from MongoDB,
+# exporting data into a feature store, and splitting data into training and testing sets.
 from networksecurity.exception.exception import NetworkSecurityException
 from networksecurity.logging.logger import logging
 

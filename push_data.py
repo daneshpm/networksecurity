@@ -1,3 +1,5 @@
+# The above class `NetworkDataExtract` contains methods to convert CSV data to JSON format and insert
+# the data into a MongoDB database.
 import os
 import sys
 import json

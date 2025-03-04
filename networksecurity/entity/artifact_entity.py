@@ -1,3 +1,6 @@
+# This code snippet is defining several data classes using the `dataclass` decorator from the
+# `dataclasses` module in Python. Each class represents a specific artifact or object related to a
+# machine learning pipeline or data processing workflow. Here's a brief overview of each class:
 from dataclasses import dataclass
 
 @dataclass

@@ -1,3 +1,5 @@
+# The `TrainingPipeline` class defines a pipeline for data ingestion, validation, transformation,
+# model training, and syncing artifacts to an S3 bucket.
 import os
 import sys
 

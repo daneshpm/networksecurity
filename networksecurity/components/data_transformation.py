@@ -1,3 +1,5 @@
+# The `DataTransformation` class reads, processes, and transforms data using a KNNImputer and saves
+# the transformed data and object for future use.
 import sys
 import os
 import numpy as np

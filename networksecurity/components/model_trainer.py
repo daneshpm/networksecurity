@@ -1,3 +1,5 @@
+# The `ModelTrainer` class is responsible for training machine learning models, tracking experiments
+# with MLflow, and saving model artifacts in a network security project.
 import os
 import sys
 

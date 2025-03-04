@@ -1,3 +1,5 @@
+# The `DataValidation` class in Python performs data validation tasks such as checking column numbers,
+# detecting dataset drift, and generating validation artifacts.
 from networksecurity.entity.artifact_entity import DataIngestionArtifact,DataValidationArtifact
 from networksecurity.entity.config_entity import DataValidationConfig
 from networksecurity.exception.exception import NetworkSecurityException 

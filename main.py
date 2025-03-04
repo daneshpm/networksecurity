@@ -1,3 +1,5 @@
+# This code snippet is a Python script that seems to be part of a network security application. Here's
+# a breakdown of what it does:
 from networksecurity.components.data_ingestion import DataIngestion
 from networksecurity.components.data_validation import DataValidation
 from networksecurity.components.data_transformation import DataTransformation
